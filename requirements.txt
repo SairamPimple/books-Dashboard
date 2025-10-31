@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+pandas
+streamlit
+plotly
+# run pyton scraper/scrape_books.py
+# cd dasdboard/
+# streamlit run dashboard.py
